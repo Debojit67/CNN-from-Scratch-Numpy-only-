@@ -15,3 +15,4 @@ Contributors do add
 2) Batch normalization layer and batch gradient descent
 3) Adam optimization
 4) Learning rate scheduler
+5) padding
